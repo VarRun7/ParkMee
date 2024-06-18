@@ -1,6 +1,6 @@
-# parkmee
+# ParkMee
 
-A new Flutter project.
+A new Flutter project with Rest API backend. This parking finder application uses a MySQL database.
 
 ## Getting Started
 
